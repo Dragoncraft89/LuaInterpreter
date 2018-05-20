@@ -5,7 +5,7 @@ It comes with the possibility of calling functions directly from Lua, clean and 
 
 Examples:
 Basic execution of lua files
-```
+```java
 import java.io.File;
 
 import florian.lua.interpreter.LuaInterpreter;
@@ -22,7 +22,7 @@ public class LuaTest {
 ```
 
 Loading custom modules
-```
+```java
 import java.io.File;
 
 import florian.lua.interpreter.LuaInterpreter;
